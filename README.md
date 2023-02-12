@@ -1,2 +1,2 @@
 # odin-recipes
-This project is part the odin project curriculumS
+This project is part the odin project curriculum
